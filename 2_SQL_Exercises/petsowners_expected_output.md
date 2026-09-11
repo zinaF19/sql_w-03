@@ -17,6 +17,7 @@ Expected Output most common name:
 ![expected output most common name](../assets/1.2_Petname_most_common.png)
 Expected Output least common name: 
 ![expected output least common name](../assets/1.2_Petname_least_common.png)
+It was 35 names! 
 
 3. What kind of pets do we have? Hint: [DISTINCT](https://www.postgresql.org/docs/9.5/sql-select.html)
    
